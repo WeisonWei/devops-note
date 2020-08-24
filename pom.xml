@@ -13,5 +13,6 @@
 
     <modules>
         <module>devops-git</module>
+        <module>devops-maven</module>
     </modules>
 </project>
