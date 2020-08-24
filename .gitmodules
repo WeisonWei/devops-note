@@ -10,3 +10,6 @@
 [submodule "devops-docker"]
 	path = devops-docker
 	url = https://github.com/WeisonWei/devops-docker.git
+[submodule "devops-elk"]
+	path = devops-elk
+	url = https://github.com/WeisonWei/devops-elk.git
