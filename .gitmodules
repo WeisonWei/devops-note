@@ -1,3 +1,6 @@
 [submodule "devops-git"]
 	path = devops-git
 	url = https://github.com/WeisonWei/devops-git.git
+[submodule "devops-maven"]
+	path = devops-maven
+	url = https://github.com/WeisonWei/devops-maven.git
