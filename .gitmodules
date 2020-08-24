@@ -7,3 +7,6 @@
 [submodule "devops-linux"]
 	path = devops-linux
 	url = https://github.com/WeisonWei/devops-linux.git
+[submodule "devops-docker"]
+	path = devops-docker
+	url = https://github.com/WeisonWei/devops-docker.git

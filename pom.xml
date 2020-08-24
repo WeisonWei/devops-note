@@ -15,5 +15,6 @@
         <module>devops-git</module>
         <module>devops-maven</module>
         <module>devops-linux</module>
+        <module>devops-docker</module>
     </modules>
 </project>
