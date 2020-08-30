@@ -18,5 +18,7 @@
         <module>devops-docker</module>
         <module>devops-elk</module>
         <module>devops-jekins</module>
+        <module>devops-kubernetes</module>
     </modules>
+
 </project>

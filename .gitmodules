@@ -16,3 +16,6 @@
 [submodule "devops-jekins"]
 	path = devops-jekins
 	url = https://github.com/WeisonWei/devops-jekins.git
+[submodule "devops-kubernetes"]
+	path = devops-kubernetes
+	url = https://github.com/WeisonWei/devops-kubernetes.git
