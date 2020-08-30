@@ -13,3 +13,6 @@
 [submodule "devops-elk"]
 	path = devops-elk
 	url = https://github.com/WeisonWei/devops-elk.git
+[submodule "devops-jekins"]
+	path = devops-jekins
+	url = https://github.com/WeisonWei/devops-jekins.git
